@@ -1,0 +1,21 @@
+li{
+    list-style: none;
+    text-align: center;
+    margin-left: -140px;
+    margin-left: -20px;
+    margin-top: 50px;
+    color: white;
+}
+
+.btn{
+    margin-left: 250px;
+    width: 50px;
+    background-color: rgb(26, 25, 27);
+    color: white;
+    border: 5px white;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    border: blue;
+}
